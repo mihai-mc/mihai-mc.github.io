@@ -1,5 +1,10 @@
 # mihai-mc.github.io
 
+# Traduceri autorizate
+
+* Traducător și interpret autorizat de Ministerul Justiției din România
+* Limbile: română, engleză
+
 # OLTEANU MIHAI-CRISTIAN P.F.A.
 
 * **CUI/CIF**: 51090342
