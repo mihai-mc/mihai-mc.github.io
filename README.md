@@ -4,6 +4,7 @@
 
 * Traducător și interpret autorizat de Ministerul Justiției din România
 * Limbile: română, engleză
+* Generator [Încheiere de traducător](/translation-certification/)
 
 # OLTEANU MIHAI-CRISTIAN P.F.A.
 
