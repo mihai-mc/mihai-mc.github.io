@@ -1,10 +1,12 @@
-# mihai-mc.github.io
-
 # Traduceri autorizate
 
 * Traducător și interpret autorizat de Ministerul Justiției din România
 * Limbile: română, engleză
 * Generator [Încheiere de traducător](/translation-certification/)
+
+## Lista notarilor cu specimen de semnătură
+
+1. [SPN Didea Lex](https://notariat-pitesti.ro/)
 
 # OLTEANU MIHAI-CRISTIAN P.F.A.
 
