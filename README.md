@@ -4,6 +4,7 @@
 * Număr de Autorizație: 39429/07.05.2026
 * Limbile: **engleză**, română
 * Generator [Încheiere de traducător](/translation-certification/)
+* [Serviciu de verificare traduceri](/verify-translation)
 
 ## Servicii și prețuri
 
