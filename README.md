@@ -4,13 +4,14 @@
 * Număr de Autorizație: 39429/07.05.2026
 * Limbile: **engleză**, română
 * Generator [Încheiere de traducător](/translation-certification/)
-* [Serviciu de verificare traduceri](/verify-translation)
+* [Serviciu de verificare a traducerilor](/verify-translation)
+
+---
 
 ## Servicii și prețuri
 
 * Traduceri autorizate: 50 RON/pagină
-* Traduceri legalizate: 75 RON/pagină (+ onorariul notarial)
-* Traduceri apostilate/supralegalizate: 100 RON/pagină (+ taxe de apostilare/supralegalizare)
+* Traduceri legalizate/apostilate/supralegalizate: 75 RON/pagină (+ onorariul notarial/taxe de apostilare/supralegalizare)
 * Interpretariat: 75 RON/30 de minute
 
 N.B.: 1 pagină de traducere = 2000 de caractere cu spații (excl. poze/diagrame)
@@ -20,21 +21,26 @@ Termen estimativ de traducere: 5 zile lucrătoare, în funcție de complexitatea
 ### Tarife suplimentare
 
 La tarifele mai sus menționate se adaugă, după caz:
-* Taxă de urgență: 100% din preț (pentru traducerile cerute în urgență - termen de 48h)
-* Taxă de tehnoredactare: 100% din preț (pentru documentele predominant redactate olograf)
+* Taxă de urgență: 150% din prețul serviciilor contractate (pentru traducerile cerute în urgență cu termen de 24-30h)
+* Taxă de urgență: 100% din prețul serviciilor contractate (pentru traducerile cerute în urgență cu termen de 48-60h)
+* Taxă de tehnoredactare: 100% din preț (pentru documentele predominant redactate olograf care pun probleme de lizibilitate)
 
-### Tarife Reduse
+### Tarife preferențiale
 
-Din motive de compasiune, am dezvoltat o listă de tarife reduse pentru a susține anumite categorii sociale sau evenimente neprevăzute.
+Din motive de responsabilitate socială, am dezvoltat o listă de tarife reduse pentru a susține anumite categorii sociale sau evenimente neprevăzute. Acestea prețuri se aplică fie pentru tipul de document care se solicită a fi tradus, fie pentru persoana care solicită traducerea.
 
-Condiții de eligibilitate:
-* Solicitantul dispune de documentele doveditoare
-* Traducerile/Interpretariatul se efectuează strict în folosul și în numele solicitantului
-* Reducerile nu se pot cumula, nici transfera
-* Documentele nu depășesc **5 pagini**
-* Serviciile de interpretariat nu depășește **3 ore**
+* Traduceri autorizate: 35 RON/pagină
+* Traduceri legalizate/apostilate/supralegalizate: 55 RON/pagină (+ onorariul notarial/taxe de apostilare/supralegalizare)
+* Interpretariat: 50 RON/30 de minute
 
-Următoarele categorii de persoane beneficiază de o reducere de **50%** din prețurile de bază:
+#### Categorii de documente unde se acordă reduceri
+
+* Certificat de deces
+* Adeverințe medicale pentru pacienții oncologici sau terminali
+* Documente pentru repatrierea unui decedat
+* Documente legate de violența domestică și ordine de protecție
+
+#### Categorii sociale unde se acordă reduceri
 
 * elevii/studenții (16-25 de ani, cetățeni UE/SEE/CH) din medii sociale vulnerabile
 * angajații/pensionarii cu venituri reduse (sub 3.500 RON/lună)
@@ -42,19 +48,22 @@ Următoarele categorii de persoane beneficiază de o reducere de **50%** din pre
 * persoanele aflate în primele 6 luni de șomaj (înregistrare la AJOFM)
 * alte categorii sociale vulnerabile, la discreția noastră (necesită confirmarea în prealabil a eligibilității)
 
-Următoarele tipuri de documente beneficiază de o reducere de **50%** din prețurile de bază:
+#### Condiții de eligibilitate
 
-* Certificat de deces
-* Adeverințe medicale pentru pacienții oncologici sau terminali
-* Documente pentru repatrierea unui decedat
-* Documente legate de violența domestică și ordine de protecție
+* Solicitantul dispune de documentele doveditoare
+* Traducerile/Interpretariatul se efectuează **strict** în folosul și în numele solicitantului
+* Reducerile nu se pot cumula, nici transfera
+* Documentele nu depășesc **5 pagini**
+* Serviciile de interpretariat nu depășește **3 ore**
+
+---
 
 ## Lista notarilor cu specimen de semnătură
 
-### Birou Individual Notarial Burcea Valentina
+### SPN Burcea Valentina și Bogos Iulia
 
-* E-mail: burcea.valentina@enp.ro
-* Număr de telefon: +40 722 381 883
+* E-mail: bogos.iulia@enp.ro
+* Număr de telefon: +40 723 460 201
 * Date UNNPR: https://www.uniuneanotarilor.ro/?p=2.2.3&id=2307
 
 ### SPN Didea Lex
@@ -76,14 +85,16 @@ Următoarele tipuri de documente beneficiază de o reducere de **50%** din preț
 * Număr de telefon: +40 348 401 120
 * Date UNNPR: https://www.uniuneanotarilor.ro/?p=2.2.3&id=3067
 
+---
+
 # OLTEANU MIHAI-CRISTIAN P.F.A.
 
 ## Date de contact
 
 Program de lucru: 08:00 - 18:00 (Luni - Duminică)
 
-* Număr de telefon: +40 799 996 300 (telefon, SMS, WhatsApp)
-* E-mail: mihaiolteanucristian.pfa@gmail.com
+* Număr de telefon: [+40 799 996 300](https://wa.me/4799996300) (telefon, SMS, WhatsApp)
+* E-mail: [mihai@olteanu.dev](mailto:mihai@olteanu.dev)
 
 ## Date de facturare
 
@@ -91,4 +102,6 @@ Program de lucru: 08:00 - 18:00 (Luni - Duminică)
 * **CUI/CIF**: 51090342
 * **Număr R.C.**: F3/120/2025
 * **EUID**: ROONRC.F2025000120002
-* **Adresă de corespondență (Sediul)**: Str. Principală, nr. 159, Sat Hințești, Com. Moșoaia, jud. Argeș, România
+* **Sediul**: Str. Principală, nr. 159, Sat Hințești, Com. Moșoaia, jud. Argeș, România
+
+---
