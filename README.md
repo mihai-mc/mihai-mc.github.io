@@ -100,6 +100,7 @@ Program de lucru: 08:00 - 18:00 (Luni - Duminică)
 
 * **Nume firmă**: OLTEANU Mihai-Cristian P.F.A.
 * **CUI/CIF**: 51090342
+* **CUI/CIF (intracomunitar)**: RO 55714422
 * **Număr R.C.**: F3/120/2025
 * **EUID**: ROONRC.F2025000120002
 * **Sediul**: Str. Principală, nr. 159, Sat Hințești, Com. Moșoaia, jud. Argeș, România
